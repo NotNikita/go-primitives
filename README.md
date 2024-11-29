@@ -12,3 +12,8 @@ Future library, that will export silly function i need in programming. Usually t
 # Tests
 
 `go test ./...`
+
+# Updating tags:
+
+`git tag v0.0.x`
+`git push origin v0.0.x`
